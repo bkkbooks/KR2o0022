@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2o0022/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 御批續資治通鑑綱目
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:56:42.068772'
+  source:
+    repository: kanripo
+    path: KR2o0022/KR2o0022_000.txt
+hash: sha256:28914efbe2682f0c593d6b13b7eabf500ef89176c91f326f8330ec01875ae10a

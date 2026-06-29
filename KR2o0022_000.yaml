@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2o0022/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 御批續資治通鑑綱目
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:56:42.068772'
+  source:
+    repository: kanripo
+    path: KR2o0022/KR2o0022_000.txt
+hash: sha256:4db1bb4c4d9d646f8e7ae0586d90f412eb1a8544499f2c76e4688e55f4630cb8
