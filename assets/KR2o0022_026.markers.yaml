@@ -9510,6 +9510,7 @@ markers:
   - {type: line-break, offset: 32492, content: '', id: KR2o0022_WYG_026-68a05}
   - {type: indent, offset: 32492, content: 　, id: KR2o0022_krp_026-bkkind886}
   - {type: punctuation, offset: 32492, content: (, id: KR2o0022_krp_026-bkkpn2724}
+  - {type: 'voice:problem', offset: 32492, length: 64, id: KR2o0022_bkk_026-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 32492, got ''('' at offset 32556'}
   - {type: substitution, offset: 32494, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
   - {type: punctuation, offset: 32512, content: /, id: KR2o0022_krp_026-bkkpn2725}
   - {type: substitution, offset: 32525, original: 䕶, replacement: 護, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19873}}
@@ -10929,4 +10930,4 @@ markers:
 
       ', id: KR2o0022_krp_026-bkkkrnewl1404}
   back: []
-hash: sha256:8f4ce9b2d271fa2941898db6aa6057a1739b10e03a6454855bc3794fd181a083
+hash: sha256:b5dc208e4d9dac61dec6534b4d684ac159d20e34cc4744517e12a5f99702a358
